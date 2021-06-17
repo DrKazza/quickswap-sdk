@@ -1,18 +1,18 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "quickswap-sdk",
   "license": "MIT",
-  "version": "5.0.0-canary.16",
-  "description": "🛠 An SDK for building applications on top of Sushiswap.",
+  "version": "0.9",
+  "description": "🛠 A hack to use Quickswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": "https://github.com/DrKazza/quickswap-sdk",
   "keywords": [
     "uniswap",
-    "sushiswap",
-    "ethereum"
+    "quickswap",
+    "matic"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
@@ -47,7 +47,7 @@
     "@types/big.js": "^4.0.5",
     "@types/jest": "^24.0.25",
     "babel-plugin-transform-jsbi-to-bigint": "^1.3.1",
-    "tsdx": "^0.12.3"
+    "tsdx": "^0.14.1"
   },
   "engines": {
     "node": ">=10"

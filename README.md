@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/sushiswap/sushiswap-sdk.git
+git clone https://github.com/DrKazza/quickswap-sdk.git
 ```
 
-Move into the sushiswap-sdk working directory
+Move into the quickswap-sdk working directory
 
 ```sh
-cd sushiswap-sdk/
+cd quickswap-sdk/
 ```
 
 Install dependencies
